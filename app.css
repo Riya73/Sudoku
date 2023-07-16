@@ -1,12 +1,12 @@
 :root {
     --bg-main: #c6d2e4;
-    --bg-body: rgb(241, 202, 230);
+    --bg-body: rgb(40, 203, 146);
     --color-txt: #000;
     --filled-color: #000;
-    --filled-bg: #caf0f8;
+    --filled-bg: #3b8292;
 
     --white: #fff;
-    --blue: #53aaca;
+    --blue: #32819c;
     --red: #ad194a;
     --black: #000;
 
@@ -25,11 +25,11 @@
 }
 
 .dark {
-    --bg-main: #2a2a38;
-    --bg-body: #1a1a2e;
-    --color-txt: #6a6a6a;
-    --filled-color: #4f4f63;
-    --filled-bg: #000;
+    --bg-main: rgb(21, 55, 42);
+    --bg-body: rgb(16, 70, 49);
+    --color-txt: #000000;
+    --filled-color: #2c2c30;
+    --filled-bg: #000000;
 }
 
 * {
